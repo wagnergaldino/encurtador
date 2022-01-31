@@ -1,1 +1,1 @@
-# encurtador
+# Encurtador de URLs (URLs shortener)
